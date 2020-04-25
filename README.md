@@ -1,5 +1,3 @@
-# Body Area Network IoT Simulation Using Node-Red
-Simulating the Body-Area-Network Sensors in real-time on Node-Red.
 
 **List of Sensors**
 1. Blood Pressure Sensor
