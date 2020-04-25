@@ -1,4 +1,4 @@
-
+**Body-Area-Network Sensors used in real-time:**
 **List of Sensors**
 1. Blood Pressure Sensor
 2. Heart Rate Sensor
